@@ -6,9 +6,7 @@
 		"backbone": "0.9.2",
 		"express": "3.0.4",
 		"redis": "0.8.2",
-		"rss": "0.0.4",
-		"xml": "0.0.7",
-		"xml2js": "0.2.2"
+		"atom": "https://github.com/fcecagno/node-atom/tarball/master"
 	},
 	"engine": "node >= 0.8.9"
 }
